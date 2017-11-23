@@ -1,0 +1,9 @@
+C:\2Study\VS Code\LoadingTest\LoadingTest\bin\Debug\LoadingTest.exe.config
+C:\2Study\VS Code\LoadingTest\LoadingTest\obj\Debug\LoadingTest.csprojResolveAssemblyReference.cache
+C:\2Study\VS Code\LoadingTest\LoadingTest\obj\Debug\LoadingTest.Properties.Resources.resources
+C:\2Study\VS Code\LoadingTest\LoadingTest\obj\Debug\LoadingTest.csproj.GenerateResource.Cache
+C:\2Study\VS Code\LoadingTest\LoadingTest\bin\Debug\LoadingTest.exe
+C:\2Study\VS Code\LoadingTest\LoadingTest\bin\Debug\LoadingTest.pdb
+C:\2Study\VS Code\LoadingTest\LoadingTest\obj\Debug\LoadingTest.Loading.resources
+C:\2Study\VS Code\LoadingTest\LoadingTest\obj\Debug\LoadingTest.exe
+C:\2Study\VS Code\LoadingTest\LoadingTest\obj\Debug\LoadingTest.pdb
